@@ -146,9 +146,10 @@ div.pubtext {
 	float: 				left;
 	padding:      15px 0;
 }
-div.news {
+div.experience {
 	float: 				left;
-	padding:      0;
+	padding:      15px 0;
+    width: 600px;
 }
 div.publink {
 	float:				right;
