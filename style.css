@@ -144,9 +144,9 @@ li.no-bullet {
 }
 div.pubtext {
 	float: 				left;
-	padding:      		0;
+	padding:      		15px 0;
 }
 div.publink {
 	float:				right;
-	padding:      		0;
+	padding:      		15px 0;
 }
