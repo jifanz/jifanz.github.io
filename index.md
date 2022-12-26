@@ -1,47 +1,19 @@
 ---
-layout: page
-title: Thank You!
-sitemap: false
+layout: about
+image: /assets/img/profile.jpg
+description: >
+  Computer Science Ph.D. Student at University of Wisconsin, Madison
+hide_description: true
+redirect_from:
+  - /download/
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+### Jifan Zhang
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+<!--author-->
 
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+## News
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
-
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
-
-~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
-~~~
-
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
+* [July 19, 2022] My internship project (among two other projects) received an internal shoutout from Mark Zuckerburg at Meta.
+* [May 19, 2022] Our paper "GALAXY: Graph-based Active Learning at the Extreme" has been accepted to ICML 2022. Check out the paper on [arXiv](https://arxiv.org/pdf/2202.01402.pdf).
+* [April 3, 2021] I will be joining the University of Wisconsin, Madison as a Computer Science Ph.D. student! My Google search engine is very confused about the word "UW" now.

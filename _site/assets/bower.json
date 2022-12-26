@@ -1,7 +1,7 @@
 {
   "name": "hydejack-assets",
-  "homepage": "https://hydejack.com/",
-  "author": "Florian Klampfer <mail@qwtel.com> (https://qwtel.com/)",
+  "homepage": "https://jifanz.github.io/",
+  "author": "Jifan Zhang",
   "license": "MIT",
   "private": true,
   "dependencies": {

@@ -9,6 +9,9 @@ amazon:
 google:
   name: Google
   icon: icon-google
+google-scholar:
+  name: Google Scholar
+  icon: icon-google-scholar
 google-plus:
   name: Google+
   icon: icon-google-plus
@@ -205,4 +208,7 @@ keybase:
   prepend: "https://keybase.io/"
 download:
   name: Download
+  icon: icon-box-add
+cv:
+  name: Curriculum Vitae
   icon: icon-box-add

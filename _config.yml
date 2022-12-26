@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# url:                   https://username.github.io
+# url:                   https://jifanz.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -20,16 +20,16 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Jifan Zhang
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  I am a Ph.D. student in computer science at [the University of Wisconsin](https://www.wisc.edu/). My research focuses on both theoretical and applied perspectives of Machine Learning. I work on active learning and deep learning problems with [Robert D. Nowak](https://nowak.ece.wisc.edu/).
+  
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Computer Science Ph.D. Student at University of Wisconsin, Madison
 
 # A list of keywords for your blog
 keywords:              []
@@ -37,39 +37,43 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/profile.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Jifan Zhang
+  email:               jifan@cs.wisc.edu
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  # twitter:             jifanz
 
 # Add links to the sidebar.
 menu:
-  - title:             Blog
-    url:               /blog/
-  - title:             Projects
-    url:               /projects/
-  - title:             Résumé*
-    url:               /resume/
-  - title:             Documentation
-    url:               /docs/
+  - title:             About
+    url:               /index/
+  - title:             Experience
+    url:               /experience/#work
+  - title:             Publications
+    url:               /publication/
+  - title:             Service
+    url:               /service/
+  - title:             Teaching
+    url:               /teaching/
+  - title:             Info & Past Bio
+    url:               /experience/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+# legal:
+#   - title:             LICENSE
+#     url:               /LICENSE/
+#   - title:             NOTICE
+#     url:               /NOTICE/
+#   - title:             CHANGELOG
+#     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2022. All rights reserved.
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
@@ -77,7 +81,6 @@ permalink:             /blog/:categories/:year-:month-:day-:title/
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
 paginate_path:         /blog/:num/
-
 
 # Theme
 # ---------------------------------------------------------------------------------------
@@ -91,7 +94,7 @@ paginate_path:         /blog/:num/
  
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(79,177,186)
+accent_color:          rgb(30,144,255)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
@@ -131,13 +134,6 @@ defaults:
     values:
       sitemap:         false
 
-  # Don't include licenses in sitemap (feel free to delete)
-  - scope:
-      path:            licenses/
-    values:
-      layout:          plain
-      sitemap:         false
-
   # # You can use the following to enable comments on all posts.
   # - scope:
   #     type:            posts
@@ -173,7 +169,7 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-# google_analytics:      UA-XXXXXXXX-X
+google_analytics:      UA-146906479-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
@@ -212,7 +208,7 @@ hydejack:
   # Set to true to disable the built-in search functionality.
   # Note that search is disabled during local use to save on build time.
   # Run Jekyll with the `JEKYLL_ENV` environment variable set to `production` to enable.
-  no_search:           false
+  no_search:           true
 
   # Set to `true` if you do not want parts of the css inlined in <head/>
   # This will increase site build speed dramatically!
@@ -310,8 +306,8 @@ collections:
 # ----------------------------------------------------------------------------------------
 
 exclude:
-  - ./#jekyll-theme-hydejack/node_modules
-  - ./#jekyll-theme-hydejack/.git
+  - ./#jekyll-theme-hydejack/node_modules	
+  - ./#jekyll-theme-hydejack/.git	
   - .jekyll-cache
   - .sass-cache
   - '*.toml'
@@ -339,6 +335,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
+  - jekyll-target-blank
 
 
 # SEO Tag
@@ -354,8 +351,8 @@ plugins:
 #   yandex:              <verification-id>
 
 # Used for twitter cards
-# twitter:
-#   username:            <username>
+twitter:
+  username:            jifanz
 
 # Used for facebook open graph
 # facebook:
@@ -364,11 +361,11 @@ plugins:
 #   admins:              <id>
 
 # Used on index and about sites
-# social:
-#   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+social:
+  name:                Jifan Zhang
+  links:
+    - https://twitter.com/jifanz
+    - https://github.com/jifanz
 
 
 # Plugin Configs
@@ -396,7 +393,6 @@ compress_html:
 
 sass:
   style:               compressed
-
 
 # Jekyll Compose Defaults
 # ---------------------------------------------------------------------------------------

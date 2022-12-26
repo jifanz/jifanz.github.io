@@ -2,49 +2,57 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
-  picture: "https://via.placeholder.com/240x240"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  name: "Jifan Zhang"
+  label: "Back Then, I was Young and Fresh"
+  email: "jifan@cs.wisc.edu"
+  phone: "(609) 608-5107"
+  website: "https://jifanz.github.io/"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    ***This section is a brief summary of my past and retired bios***
+
+    > I was born in [Shenyang](https://en.wikipedia.org/wiki/Shenyang), China and my family moved to [Beijing](https://en.wikipedia.org/wiki/Beijing) when I was [2 years old](/Jifan-2-year-old.jpg){:target="_blank"}. I came to the states for [high school](https://www.prismsus.org/) back in 2013.\
+
+    > In springs of 2021 and 2019, I obtained my Master's and Bachelor's degrees in computer science from the University of Washignton. During undergrad, I had somewhat broad academic interests, such as Computer Vision, Robotics, Functional Programming and Math & CS Problem Solving.\
+    
+    > From 2019 to 2021, I was advised by [Kevin Jamieson](http://homes.cs.washington.edu/~jamieson/about.html), working on problems in active learning and multi-armed bandits. I worked in the [RSE Lab](https://rse-lab.cs.washington.edu/) from 2017 to 2019, where I researched on multi-tasking vision model for robotics perception, with [Tanner Schmidt](http://homes.cs.washington.edu/~tws10), under supervision of [Dieter Fox](http://homes.cs.washington.edu/~fox). In the summer of 2018, I joined the [SAMPL group](http://sampl.cs.washington.edu/), where I was working on Relay, part of the [TVM project](https://tvm.ai/), with [Zachary Tatlock](https://homes.cs.washington.edu/~ztatlock/) and [Jared Roesch](https://jroesch.github.io/).
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
-  profiles:
-    - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
-    - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+    address: "330 North Orchard Street, Room 3160"
+    # postalCode: "53715"
+    city: "Madison"
+    # countryCode: "US"
+    region: "WI"
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
-    endDate: ""
+  - company: "Meta, Core Data Science"
+    position: "Research Intern"
+    website: "https://research.facebook.com/teams/core-data-science/"
+    startDate: "May 2022"
+    endDate: "Dec 2022"
     summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
-    highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+      My internship project (among two other projects) received an internal shoutout from Mark Zuckerburg at Meta. Researched and productionized a real active learning system.
+  - company: "Google, Search pCTR Team"
+    position: "Software Engineering Intern"
+    # website: "https://research.facebook.com/teams/core-data-science/"
+    startDate: "June 2021"
+    endDate: "September 2021"
+    summary: >
+      Researched on improving Ad click prediction training efficiency by subselecting trillion-scale dataset.
+  - company: "Google, Geo 3D Reconstruction Team"
+    position: "Software Engineering Intern"
+    # website: "https://research.facebook.com/teams/core-data-science/"
+    startDate: "June 2020"
+    endDate: "September 2020"
+    summary: >
+      Researched on and implemented multi-view texturing algorithms for Google Map’s 3D reconstructed models at scale.
+  - company: "Facebook, ML Data Platform Team"
+    position: "Software Engineering Intern"
+    # website: "https://research.facebook.com/teams/core-data-science/"
+    startDate: "June 2019"
+    endDate: "September 2019"
+    summary: >
+      Prototyped distributed systems for large scale machine learning services of PyTorch data pre-processing.
 volunteer:
   - organization: "CoderDojo"
     position: "Teacher"
@@ -70,32 +78,10 @@ awards:
     awarder: "Techcrunch"
     summary: "There is no spoon."
 publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
-skills:
-  - name: "Web Development"
-    level: "Master"
-    keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
-    level: "Master"
-    keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
-languages:
-  - language: "English"
-    fluency: "Native speaker"
-interests:
-  - name: "Wildlife"
-    keywords:
-      - "Ferrets"
-      - "Unicorns"
+  - name: "A Better Way to Decay: Proximal Gradient Training Algorithms for Neural Nets"
+    publisher: "Liu Yang, Jifan Zhang, Joseph Shenouda, Dimitris Papailiopoulos, Kangwook Lee, Robert D. Nowak"
+    website: "https://arxiv.org/pdf/2210.03069.pdf"
+    summary: "14th International OPT Workshop on Optimization for Machine Learning (at NeurIPS 2022)."
 references:
   - name: "Erlich Bachman"
     reference: >
