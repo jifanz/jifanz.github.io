@@ -1,2 +1,0 @@
-# jifanz.github.io
-Homepage
