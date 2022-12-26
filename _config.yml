@@ -352,7 +352,7 @@ plugins:
 
 # Used for twitter cards
 twitter:
-  username:            jifanz
+  username:            jifan_zhang
 
 # Used for facebook open graph
 # facebook:
@@ -364,7 +364,7 @@ twitter:
 social:
   name:                Jifan Zhang
   links:
-    - https://twitter.com/jifanz
+    - https://twitter.com/jifan_zhang
     - https://github.com/jifanz
 
 
