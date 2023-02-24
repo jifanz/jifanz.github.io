@@ -31,7 +31,7 @@ work:
     startDate: "May 2022"
     endDate: "Dec 2022"
     summary: >
-      My internship project (among two other projects) received an internal shoutout from Mark Zuckerburg at Meta. Researched and productionized a real active learning system.
+      My internship project (among two other projects) received an internal shoutout from Mark Zuckerburg at Meta. Independently researched on and productionized a large-scale active learning system.
   - company: "Google, Search pCTR Team"
     position: "Software Engineering Intern"
     # website: "https://research.facebook.com/teams/core-data-science/"
