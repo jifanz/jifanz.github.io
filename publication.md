@@ -15,7 +15,7 @@ hide_description: true
 
 {:start="2"}
 1. **LabelBench: A Comprehensive Framework for Benchmarking Label-Efficient Learning** [PDF](https://arxiv.org/pdf/2306.09910.pdf)\
-    Jifan Zhang, Yifang Chen, Gregory Canal, Stephen Mussmann, Yinglun Zhu, Simon Shaolei Du, Kevin Jamieson, Robert D Nowak
+    Jifan Zhang<sup>*</sup>, Yifang Chen<sup>*</sup>, Gregory Canal, Stephen Mussmann, Yinglun Zhu, Simon Shaolei Du, Kevin Jamieson, Robert D Nowak
     Data-centric Machine Learning Research (DMLR) Workshop (at ICML 2023).
 1. **Algorithm Selection for Deep Active Learning with Imbalanced Datasets** [PDF](https://arxiv.org/pdf/2302.07317.pdf)\
     Jifan Zhang, Shuai Shao, Saurabh Verma, Robert Nowak
