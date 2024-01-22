@@ -8,12 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    I am a Ph.D. student in computer science at the University of Wisconsin. My research focuses on both theoretical and applied perspectives of Machine Learning. I work on active learning and deep learning problems with [Robert D. Nowak](https://nowak.ece.wisc.edu/).
-    In addition, my research is being/has been applied to various applications including
-
-    * Data efficient learning for social and human behavior models at multiple top tech companies;
-    * Radio frequency fingerprinting for a safer network authentication;
-    * Better recommendation algorithms for digital advertisement.
+    I am a Ph.D. candidate in computer science at the University of Wisconsin. My research focuses on both applied and theoretical perspectives of Machine Learning. I am working on label-efficient and data-efficient methods for training large language/vision models with [Robert D. Nowak](https://nowak.ece.wisc.edu/).
     
     I obtained my M.S. and B.S. degrees in computer science from the University of Washington. During that time, I have been fortunate to be advised by [Kevin Jamieson](http://homes.cs.washington.edu/~jamieson/about.html), [Lalit Jain](http://lalitjain.com/), [Tanner Schmidt](https://tschmidt23.github.io), [Dieter Fox](https://homes.cs.washington.edu/~fox) and [Zachary Tatlock](https://ztatlock.net/).
     
