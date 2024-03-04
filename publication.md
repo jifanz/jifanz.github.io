@@ -12,25 +12,18 @@ hide_description: true
 1. **DIRECT: Deep Active Learning Under Imbalance and Label Noise** [PDF](https://arxiv.org/pdf/2312.09196.pdf)\
     Shyam Nuggehalli<sup>*</sup>, Jifan Zhang<sup>*</sup>, Lalit Jain, Robert Nowak (2023)
 
-1. **Learning to Actively Learn: A Robust Approach** [PDF](https://arxiv.org/pdf/2010.15382.pdf)\
-    Jifan Zhang, Lalit Jain, Kevin Jamieson (2020)
-
-### Refereed
+### Refereed Conference/Journal Papers
 1. **Learning from the Best: Active Learning for Wireless Communications**\
     Nasim Soltani<sup>*</sup>, Jifan Zhang<sup>*</sup>, Batool Salehi, Debashri Roy, Robert Nowak, Kaushik Chowdhury\
-    Accepted at IEEE Wireless Communications (2024).
+    Accepted at IEEE Wireless Communications Magazine (2024).
 
 1. **LabelBench: A Comprehensive Framework for Benchmarking Adaptive Label-Efficient Learning** [PDF](https://arxiv.org/pdf/2306.09910.pdf) [Github](https://github.com/EfficientTraining/LabelBench)\
     Jifan Zhang<sup>*</sup>, Yifang Chen<sup>*</sup>, Gregory Canal, Arnav Das, Gantavya Bhatt, Stephen Mussmann, Yinglun Zhu, Simon Shaolei Du, Kevin Jamieson, Robert D Nowak\
-    Workshop on Adaptive Experimental Design and Active Learning in the Real World (at NeurIPS 2023).
+    Journal of Data-centric Machine Learning Research (2024).
 
 1. **Algorithm Selection for Deep Active Learning with Imbalanced Datasets** [PDF](https://arxiv.org/pdf/2302.07317.pdf) [Github](https://github.com/jifanz/TAILOR)\
     Jifan Zhang, Shuai Shao, Saurabh Verma, Robert Nowak\
     Advances in Neural Information Processing Systems 36 (NeurIPS 2023).
-
-1. **A Better Way to Decay: Proximal Gradient Training Algorithms for Neural Nets** [PDF](https://arxiv.org/pdf/2210.03069.pdf)\
-    Liu Yang, Jifan Zhang, Joseph Shenouda, Dimitris Papailiopoulos, Kangwook Lee, Robert D. Nowak\
-    14th International OPT Workshop on Optimization for Machine Learning (at NeurIPS 2022).
 
 1. **GALAXY: Graph-based Active Learning at the Extreme** [PDF](https://arxiv.org/pdf/2202.01402.pdf) [Github](https://github.com/jifanz/GALAXY)\
     Jifan Zhang, Julian Katz-Samuels, Robert Nowak\
@@ -39,3 +32,11 @@ hide_description: true
 1. **Improved Algorithms for Agnostic Pool-based Active Classification** [PDF](https://arxiv.org/pdf/2105.06499.pdf)\
     Julian Katz-Samuels, Jifan Zhang, Lalit Jain, Kevin Jamieson\
     Proceedings of the 38th International Conference on Machine Learning (ICML 2021).
+
+### Workshop and Older Preprints
+1. **A Better Way to Decay: Proximal Gradient Training Algorithms for Neural Nets** [PDF](https://arxiv.org/pdf/2210.03069.pdf)\
+    Liu Yang, Jifan Zhang, Joseph Shenouda, Dimitris Papailiopoulos, Kangwook Lee, Robert D. Nowak\
+    14th International OPT Workshop on Optimization for Machine Learning (at NeurIPS 2022).
+
+1. **Learning to Actively Learn: A Robust Approach** [PDF](https://arxiv.org/pdf/2010.15382.pdf)\
+    Jifan Zhang, Lalit Jain, Kevin Jamieson (2020)
