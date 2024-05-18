@@ -6,13 +6,15 @@ hide_description: true
 ---
 # Publications
 ### Preprint
-1. **An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language Models** [PDF](https://arxiv.org/pdf/2401.06692.pdf)\
-    Gantavya Bhatt<sup>*</sup>, Yifang Chen<sup>*</sup>, Arnav M Das<sup>*</sup>, Jifan Zhang<sup>*</sup>, Sang T Truong, Stephen Mussmann, Yinglun Zhu, Jeffrey Bilmes, Simon S Du, Kevin Jamieson, Jordan T Ash, Robert D Nowak (2024)
 
 1. **DIRECT: Deep Active Learning Under Imbalance and Label Noise** [PDF](https://arxiv.org/pdf/2312.09196.pdf)\
-    Shyam Nuggehalli<sup>*</sup>, Jifan Zhang<sup>*</sup>, Lalit Jain, Robert Nowak (2023)
+    Shyam Nuggehalli<sup>*</sup>, Jifan Zhang<sup>*</sup>, Lalit Jain, Robert Nowak (2024)
 
 ### Refereed Conference/Journal Papers
+1. **An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language Models** [PDF](https://arxiv.org/pdf/2401.06692.pdf)\
+    Gantavya Bhatt<sup>*</sup>, Yifang Chen<sup>*</sup>, Arnav M Das<sup>*</sup>, Jifan Zhang<sup>*</sup>, Sang T Truong, Stephen Mussmann, Yinglun Zhu, Jeffrey Bilmes, Simon S Du, Kevin Jamieson, Jordan T Ash, Robert D Nowak\
+    Findings of the Association for Computational Linguistics: ACL 2024.
+
 1. **Learning from the Best: Active Learning for Wireless Communications**\
     Nasim Soltani<sup>*</sup>, Jifan Zhang<sup>*</sup>, Batool Salehi, Debashri Roy, Robert Nowak, Kaushik Chowdhury\
     Accepted at IEEE Wireless Communications Magazine (2024).
