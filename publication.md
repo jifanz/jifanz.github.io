@@ -15,7 +15,7 @@ hide_description: true
     Gantavya Bhatt<sup>*</sup>, Yifang Chen<sup>*</sup>, Arnav M Das<sup>*</sup>, Jifan Zhang<sup>*</sup>, Sang T Truong, Stephen Mussmann, Yinglun Zhu, Jeffrey Bilmes, Simon S Du, Kevin Jamieson, Jordan T Ash, Robert D Nowak\
     Findings of the Association for Computational Linguistics: ACL 2024.
 
-1. **Learning from the Best: Active Learning for Wireless Communications**\
+1. **Learning from the Best: Active Learning for Wireless Communications** [PDF](https://arxiv.org/pdf/2402.04896)\
     Nasim Soltani<sup>*</sup>, Jifan Zhang<sup>*</sup>, Batool Salehi, Debashri Roy, Robert Nowak, Kaushik Chowdhury\
     Accepted at IEEE Wireless Communications Magazine (2024).
 
