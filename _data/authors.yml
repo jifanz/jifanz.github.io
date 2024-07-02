@@ -7,9 +7,10 @@ author1:
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
-  about:
+  about:             |
     I am a Ph.D. candidate in computer science at the University of Wisconsin, working with [Robert Nowak](https://nowak.ece.wisc.edu/). I obtained my M.S. and B.S. degrees in computer science from the University of Washington. During that time, I have been fortunate to be advised by [Kevin Jamieson](http://homes.cs.washington.edu/~jamieson/about.html), [Lalit Jain](http://lalitjain.com/), [Tanner Schmidt](https://tschmidt23.github.io), [Dieter Fox](https://homes.cs.washington.edu/~fox) and [Zachary Tatlock](https://ztatlock.net/).
-    My research focuses on both applied and theoretical perspectives of Machine Learning, primarily along the following axes.|
+    My research focuses on both applied and theoretical perspectives of Machine Learning, primarily along the following axes.
+    
     ##### Efficient Distillation of Black Box Intelligence
     Many of the most capable intelligences, including humans, closed-source language models (LLMs), and domain-specific tools protected by private IPs, remain black boxes today. Accessing these sources of intelligence at scale can be prohibitively expensive. My research on **Label-Efficient Learning** explores the most efficient strategies for querying these expensive intelligence sources and selecting the most informative data to train language and vision models that can effectively mimic the queried answers.
     
