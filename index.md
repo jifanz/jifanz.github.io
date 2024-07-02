@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: plain
 image: /assets/img/profile.jpg
 description: >
   Computer Science Ph.D. Student at University of Wisconsin, Madison
