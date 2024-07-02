@@ -6,6 +6,8 @@ hide_description: true
 ---
 # Publications
 ### Preprint
+1. **Humor in AI: Massive Scale Crowd-Sourced Preferences and Benchmarks for Cartoon Captioning** [PDF](https://arxiv.org/pdf/2406.10522)\
+    Jifan Zhang<sup>*</sup>, Lalit Jain<sup>*</sup>, Yang Guo<sup>*</sup>, Jiayi Chen<sup>†</sup>, Kuan Lok Zhou<sup>†</sup>, Siddharth Suresh, Andrew Wagenmaker, Scott Sievert, Timothy Rogers, Kevin Jamieson, Robert Mankoff, Robert Nowak (2024)
 
 1. **DIRECT: Deep Active Learning Under Imbalance and Label Noise** [PDF](https://arxiv.org/pdf/2312.09196.pdf)\
     Shyam Nuggehalli<sup>*</sup>, Jifan Zhang<sup>*</sup>, Lalit Jain, Robert Nowak (2024)
