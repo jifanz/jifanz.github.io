@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-## News and Talks
+### News and Talks
 * [July 2024] Talk at [Medtronic](https://www.medtronic.com/us-en/index.html) about LabelBench and Imbalanced Active Learning.
 * [June 2024] Talk at [Summer SILO](https://silo.wisc.edu/) about distillation of black-box intelligences.
 * [March 2024] Check out [LabelTrain.ai](https://www.labeltrain.ai/) for our effort on Label-Efficient Learning research including [LabelBench](https://arxiv.org/pdf/2306.09910.pdf), [label-efficient SFT of LLMs](https://arxiv.org/pdf/2401.06692.pdf), [TAILOR](https://arxiv.org/pdf/2302.07317.pdf) and [DIRECT](https://arxiv.org/pdf/2312.09196.pdf).
