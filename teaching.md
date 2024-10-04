@@ -6,6 +6,9 @@ hide_description: true
 ---
 
 # Teaching
+### Instructor
+University of Wisconsin ECE/CS 561: Data-Centric Machine Learning **[Fall 2024]**
+
 ### Teaching Assistanceship
 University of Wisconsin ECE/CS 761: Mathematical Foundations of Machine Learning **[Spring 2022]**
 

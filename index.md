@@ -13,6 +13,9 @@ redirect_from:
 
 
 ### News and Talks
+* [October 2024] Talk at Machine Learning Lunch Meeting (MLLM) at UW-Madison about humor in AI and the New Yoker Caption Contest.
+* [September 2024] [Steve Mussmann](https://steve.mussmann.us/), [Rob Nowak](https://nowak.ece.wisc.edu/) and I are teaching a brand new course on Data-Centric Machine Learning at UW-Madison and Georgia Tech in parallel.
+* [July 2024] Talk at University of Washington about distillation of black-box intelligences.
 * [July 2024] Talk at [Medtronic](https://www.medtronic.com/us-en/index.html) about LabelBench and Imbalanced Active Learning.
 * [June 2024] Talk at [Summer SILO](https://silo.wisc.edu/) about distillation of black-box intelligences.
 * [March 2024] Check out [LabelTrain.ai](https://www.labeltrain.ai/) for our effort on Label-Efficient Learning research including [LabelBench](https://arxiv.org/pdf/2306.09910.pdf), [label-efficient SFT of LLMs](https://arxiv.org/pdf/2401.06692.pdf), [TAILOR](https://arxiv.org/pdf/2302.07317.pdf) and [DIRECT](https://arxiv.org/pdf/2312.09196.pdf).

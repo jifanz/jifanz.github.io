@@ -6,7 +6,7 @@ hide_description: true
 ---
 
 # Services
-* Reviewer for ICML, NeurIPS. **Outstanding reviewer** at NeurIPS 2022, ICML 2022.
+* Reviewer for ICML, NeurIPS, ICLR, DMLR Journal, AISTATS and AAAI. **Outstanding reviewer** at NeurIPS 2022, ICML 2022.
 
 * Organizer: [SILO (Systems, Information, Learning and Optimization) seminars](https://silo.wisc.edu/) at UW Madison.
 
