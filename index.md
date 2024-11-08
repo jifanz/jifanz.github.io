@@ -13,6 +13,8 @@ redirect_from:
 
 
 ### News and Talks
+* [October 2024] Talk at [Foundation of AI Seminar](https://foundationsofai.github.io/) at Georgia Tech about distillation of black-box intelligences.
+* [October 2024] Lecture at CS 8803 at Georgia Tech about humor in AI and the New Yorker Caption Contest. 
 * [October 2024] Talk at Machine Learning Lunch Meeting (MLLM) at UW-Madison about humor in AI and the New Yoker Caption Contest.
 * [September 2024] [Steve Mussmann](https://steve.mussmann.us/), [Rob Nowak](https://nowak.ece.wisc.edu/) and I are teaching a brand new course on Data-Centric Machine Learning at UW-Madison and Georgia Tech in parallel.
 * [July 2024] Talk at University of Washington about distillation of black-box intelligences.

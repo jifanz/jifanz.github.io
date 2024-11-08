@@ -17,7 +17,7 @@ hide_description: true
     Jifan Zhang<sup>*</sup>, Lalit Jain<sup>*</sup>, Yang Guo<sup>*</sup>, Jiayi Chen<sup>†</sup>, Kuan Lok Zhou<sup>†</sup>, Siddharth Suresh, Andrew Wagenmaker, Scott Sievert, Timothy Rogers, Kevin Jamieson, Robert Mankoff, Robert Nowak\
     Advances in Neural Information Processing Systems 37 (NeurIPS 2024).
 
-1. **AHA: Human-Assisted Out-of-Distribution Generalization and Detection**\
+1. **AHA: Human-Assisted Out-of-Distribution Generalization and Detection** [PDF](https://arxiv.org/pdf/2410.08000)\
     Haoyue Bai, Jifan Zhang, Robert Nowak\
     Advances in Neural Information Processing Systems 37 (NeurIPS 2024).
 
